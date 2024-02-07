@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(204, 199, 199);
+}
+
+.h1 {
+    color: black;
+    text-align: right;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.h2 {
+    font-size: 2rem;
+}
+
+.span1 {
+    background-color: red;
+    font-size: small;
+    font-weight: bold;
+}
+
+.span2 {
+    font-weight: bolder;
+    color: blue;
+    background-color: lightskyblue;
+    font-style: italic;
+}
+
+.span3 {
+    font-weight: bold;
+    color: red;
+    font-size: 1.5rem;
+}
