@@ -1,0 +1,17 @@
+h1 {
+    background-color: rgb(145, 94, 94);
+    margin-bottom: 0;
+    text-align: left 5px;
+}
+
+h2 {
+    background-color: rgb(238, 208, 213);
+    text-align: end;
+    margin: 0;
+}
+
+.linia {
+    border-bottom: 1px dashed;
+    brown;
+
+}
