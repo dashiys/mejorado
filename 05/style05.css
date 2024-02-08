@@ -1,0 +1,30 @@
+.content {
+    width: 1000px;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+}
+
+img {
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+.derecha {
+    border-left: 1px solid black;
+    padding-left: 20px;
+}
+
+.article {
+    border-bottom: 1px solid gray;
+}
