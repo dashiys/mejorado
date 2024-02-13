@@ -1,0 +1,13 @@
+div {
+    color: black;
+    font-size: xx-large;
+    font-weight: bold;
+    padding-left: 80px;
+    padding-top: 50px;
+    text-shadow: 50px 50px 0px blue, -50px -50px 0px red, 50px -50px 0px yellow, -50px 50px 0px green;
+    transition: 1s;
+}
+
+div:hover {
+    text-shadow: -50px -50px 0px pink, 50px 50px 0px orangered, -50px 50px 0px purple, 50px -50px 0px brown;
+}

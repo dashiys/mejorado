@@ -1,0 +1,16 @@
+div {
+    background-color: black;
+    height: 250px;
+    color: white;
+    font-size: small;
+    display: inline-block;
+
+}
+
+div:hover {
+    transition: width 1s, height 5s, font-size 10s, background-color 20s;
+    background-color: pink;
+    font-size: 400px;
+    color: black;
+    height: 500px;
+}

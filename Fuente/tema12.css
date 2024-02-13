@@ -1,0 +1,10 @@
+@font-face {
+    font-family: mifuent;
+    src: url(Darling.ttf);
+}
+
+
+h1 {
+    font-family: mifuent;
+    text-align: center;
+}

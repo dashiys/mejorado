@@ -1,0 +1,75 @@
+body {
+    background-color: lightblue;
+    margin: 0px;
+}
+
+h1 {
+    text-align: right;
+    color: white;
+    background-color: black;
+    border: hidden;
+
+}
+
+.container {
+    width: 575px;
+    margin: auto;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 25px;
+    margin-top: 75px;
+    border-bottom: solid 5px white;
+
+}
+
+.date {
+    background-color: gray;
+    border-color: rgb(70, 67, 67);
+    border-bottom: rgb(27, 27, 27);
+    font-weight: bold;
+}
+
+.article {
+    border-bottom: 3px solid black;
+}
+
+.rojo {
+    border-bottom: 1px dotted red;
+    font-size: large;
+    background-color: pink;
+}
+
+.verde {
+    font-size: larger;
+    color: blue;
+
+}
+
+.alo {
+    background-color: lightskyblue;
+    font-weight: bold;
+
+}
+
+.lome {
+    border-bottom: 2px dashed rgb(192, 247, 84);
+    font-size: large;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.article2 {
+    border-bottom: 3px solid black;
+}
+
+.lor {
+    border-bottom: 1px dashed lightsalmon;
+    font-style: oblique;
+    color: red;
+}
+
+.lorre {
+    font-weight: bold;
+}

@@ -1,0 +1,81 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larges;
+    color: black;
+    text-align: center;
+}
+
+.right {
+    margin-left: 50%;
+
+
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.rightText {
+    font-style: oblique;
+    color: black;
+    border-style: none;
+    background-color: pink;
+    text-align: right;
+
+}
+
+.box {
+    margin-top: 25px;
+    margin-left: 5px;
+    border-style: dotted;
+    box-sizing: content-box;
+    background-color: rgb(165, 131, 197);
+    text-align: center;
+    width: 50%;
+
+}
+
+p.punteado {
+    border-style: dashed;
+    box-sizing: border-box;
+    background-color: rgb(199, 108, 108);
+    width: 50%;
+    margin-left: 50%;
+}
+
+p.lol {
+    border-style: double;
+    box-sizing: border-box;
+    background-color: bisque;
+}
+
+.ave {
+    border-style: groove;
+    box-sizing: border-box;
+    background-color: rgb(168, 212, 123);
+    margin-left: 50%;
+
+}
+
+.avo {
+    border-style: dotted;
+    box-sizing: border-box;
+    background-color: cadetblue;
+    margin-left: 50%;
+
+}
+
+.lei {
+    border-style: groove;
+    box-sizing: border-box;
+    background-color: chocolate;
+    margin: auto;
+}
+
+span {
+    font-style: italics;
+}

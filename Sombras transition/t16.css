@@ -1,0 +1,48 @@
+ul {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    padding: 30px;
+}
+
+a {
+    border: solid rgb(196, 69, 69);
+    border-radius: 30%;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url(./prueba.png);
+    background-size: cover;
+    padding: 30px;
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    background-repeat: no-repeat;
+
+}
+
+a:hover {
+    transition: 0.5s;
+    background-position: 150px 0px;
+
+
+}
+
+.uno {
+    background-image: url(./dinosaurio.jfif);
+    background-size: cover;
+}
+
+.dos {
+    background-image: none;
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    color: white;
+    background-size: cover;
+    background-position: 0px 100px;
+
+}
+
+.dos:hover {
+    background-image: url(./dinosaurio.jfif);
+    color: black;
+}

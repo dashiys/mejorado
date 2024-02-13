@@ -1,0 +1,12 @@
+body {
+    background-image: url(./libret.png);
+    background-repeat: repeat-y;
+    height: 4500px;
+
+}
+
+p {
+    margin-left: 110px;
+    margin-top: 25px;
+    width: 570px;
+}

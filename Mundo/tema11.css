@@ -1,0 +1,10 @@
+.container {
+
+    background-size: 50% 50%, auto auto, 100% 100%;
+    background-image: url(./mundo.svg), url(./tijeras.svg), linear-gradient(to bottom, #edbbb3 16%, #e53529 71%, #eec2bc 100%);
+    width: 400px;
+    height: 400px;
+    background-position: top left, bottom right, center center;
+    background-repeat: repeat, no-repeat, no-repeat;
+
+}
